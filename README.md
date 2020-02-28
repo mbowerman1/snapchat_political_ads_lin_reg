@@ -1,2 +1,2 @@
-# Predicting the Impressions for Snapchat Ads Based On Spending and Minimun Age Targetted
+# Predicting Views for Snapchat Ads Based On Spending and Minimum Age Targeted
 
