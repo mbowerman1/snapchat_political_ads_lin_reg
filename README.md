@@ -1,1 +1,2 @@
-# snapchat_political_ads_lin_reg
+# Predicting the Impressions for Snapchat Ads Based On Spending and Minimun Age Targetted
+
